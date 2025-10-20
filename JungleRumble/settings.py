@@ -21,7 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent.parentimport
 # BASE_DIR = Path(__file__).resolve().parent.parent
 
 # Quick-start development settings - unsuitable for production
-# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/
+# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/git commit -m
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = "django-insecure-1*l6cic))3^k3ke4eiqg75p*0h%k_sc7y@=rm=f%8efjcx#-rq"
